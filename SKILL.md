@@ -4,7 +4,8 @@ description: Evaluate whether materials, resources, or elements are being used a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4458
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - material-honesty-audit
 - writing
