@@ -3,8 +3,8 @@ name: material-honesty-audit
 description: Evaluate whether materials, resources, or elements are being used according to their true nature, and recommend authentic expression that honors what things actually are.
 license: MIT
 metadata:
+  version: 1.0.4459
   author: sethmblack
-  version: 1.0.4458
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - material-honesty-audit
